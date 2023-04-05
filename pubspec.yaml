@@ -1,0 +1,33 @@
+name: west
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  animations: ^2.0.7
+  encrypt: ^5.0.1
+  extra_alignments: ^1.0.0+1
+  flextras: ^1.0.0
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.1.1+1
+  flutter_colorpicker: ^1.0.3
+  flutter_image: ^4.1.5
+  flutter_riverpod: ^2.3.2
+  go_router: ^6.5.2
+  modal_bottom_sheet: ^2.1.2
+  shared_preferences: ^2.0.20
+  sized_context: ^1.0.0+4
+  sliver_tools: ^0.2.9
+  #textstyle_extensions: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
